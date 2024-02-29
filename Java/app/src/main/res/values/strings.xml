@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitter clone</string>
+    <string name="main">Main Activity</string>
+</resources>

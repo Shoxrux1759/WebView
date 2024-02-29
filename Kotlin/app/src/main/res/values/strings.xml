@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter Kotlin</string>
+    <string name="main">Main Activity</string>
+    <string name="splash">Splash Activity</string>
+</resources>

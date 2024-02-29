@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="text_an">Android dasturlash tili..</string>
+    <string name="text_kotlin">Kotlin dasturlash tili bu..</string>
+    <string name="sql">SQL dasturlash tili bu..</string>
+    <string name="php">PHP dasturlash tili bu..</string>
+    <string name="ae">Avtor effect (AE) bu..</string>
+</resources>

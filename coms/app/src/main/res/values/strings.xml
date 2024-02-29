@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Constrain</string>
+    <string name="regis">Registration</string>
+    <string name="login">Log in</string>
+    <string name="card1_1">San Diego</string>
+    <string name="card1_2">Curennt Location</string>
+    <string name="sunn">3:42 PM</string>
+    <string name="card2_1">Paris</string>
+    <string name="card3_1">New York</string>
+    <string name="aaa">Ro`yxatdan o`tish</string>
+    <string name="vvv">yoki ro`yxatdan o`tish uchun telefon \n \traqamingizdan foydalaning</string>
+    <string name="soat">00:43</string>
+    <string name="mano">Ismlar ma`nosi</string>
+    <string name="bun">O`g`il bolalar ismi</string>
+    <string name="qun">Qiz bolalar ismi</string>
+    <string name="ism_eng">Eng ko`p \nqo`langan ism</string>
+    <string name="yoqqan_ism">Eng ko`p\nyoqqan ism</string>
+    <string name="ism_alfa">Alfavit\nbo`yicha</string>
+    <string name="bars"><![CDATA[Bars & Hotels]]></string>
+    <string name="cafe">Cafes</string>
+    <string name="nev">Nearby</string>
+    <string name="pizz">Featured Foods</string>
+
+</resources>

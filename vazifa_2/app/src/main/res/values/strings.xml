@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">vazifa_2</string>
+    <string name="topl">TOP LEFT</string>
+    <string name="urta">TOP MIDDLE</string>
+    <string name="chap">TOP RIHGHT</string>
+    <string name="sentr">Center</string>
+    <string name="left">LEFT</string>
+    <string name="err">RIGHT</string>
+    <string name="passs">Bottom of screen</string>
+    <string name="tab1">Rank</string>
+    <string name="tab2">    Player    </string>
+    <string name="tab3">Team</string>
+    <string name="tab4">Points</string>
+    <string name="user1">Virat Kohli</string>
+    <string name="user2">Rohit Sharma</string>
+    <string name="user3">Faf du Pleassis</string>
+    <string name="user4">Steven Smith</string>
+    <string name="user5">Ross Taylor</string>
+    <string name="abzast">ICC Ranking of Players:</string>
+    <string name="btn">Button 2</string>
+    <string name="btn1">Button 1</string>
+</resources>
