@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity2"
+    android:orientation="vertical"
+    android:weightSum="7"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="15dp"
+        tools:ignore="UselessParent">
+
+        <EditText
+            android:id="@+id/nomi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/taom_nomi"
+            android:background="#DED7D7"
+            tools:ignore="Autofill,TextFields" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:padding="15dp"
+        tools:ignore="UselessParent">
+
+        <EditText
+            android:id="@+id/mahsulot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/kerakli_mahsulotlar"
+            android:background="#DED7D7"
+            tools:ignore="Autofill,TextFields" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:padding="15dp"
+        tools:ignore="UselessParent">
+
+        <EditText
+            android:id="@+id/tartibi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/taom_tayyorlash_tartibi"
+            android:background="#DED7D7"
+            tools:ignore="Autofill,TextFields" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="15dp"
+        tools:ignore="UselessParent"
+        android:gravity="center|end"
+        >
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_bacraund"
+            android:text="@string/save"
+            android:textColor="@color/white"
+            />
+        
+
+    </LinearLayout>
+
+</LinearLayout>

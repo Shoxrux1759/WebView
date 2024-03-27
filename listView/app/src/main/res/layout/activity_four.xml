@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Four_Activity">
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/phones"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:background="@drawable/btn_four_bac"
+        />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/add_phones"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:background="@drawable/btn_four_bac"
+        android:layout_marginTop="10dp"
+        />
+
+</LinearLayout>
